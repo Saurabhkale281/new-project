@@ -1,3 +1,3 @@
 # new-project
 <br>
-Author- Saurabh Kale
+Author- Saurabh Kale (project)
